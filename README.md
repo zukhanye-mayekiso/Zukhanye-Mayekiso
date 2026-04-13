@@ -19,7 +19,7 @@ JavaScript
 
 Tools & Technologies:
 
-Power BI
+Power BI - DAX
 Git & GitHub
 Microsoft Excel
 SQL Server
