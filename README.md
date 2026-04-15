@@ -1,42 +1,38 @@
 ## Hi there 👋
 
 <!--
+’m Zukhanye Mayekiso
+🎓 I am a final-year Data Science (Business Intelligence) student at Belgium Campus ITversity.
+📊 I am passionate about data analysis, statistics, and database analytics, with a strong interest in turning data into meaningful insights.
+🚀 I am currently seeking internship opportunities in data science and data analytics.
 
-Aspiring Data Analyst passionate about turning data into meaningful insights  
-📍 Pretoria, South Africa  
+Programming Languages:
+- Python
+- R
+- SQL
+- C#
+- JavaScript
 
----
+Tools & Technologies:
+- Power BI - DAX
+- Git & GitHub
+- Microsoft Excel
+- SQL Server
+- Tableau
 
-## 🚀 About Me
-I am a motivated and detail-oriented aspiring data analyst with experience in data cleaning, analysis, and visualization. I enjoy working with data to uncover trends, solve problems, and support decision-making.
+🤝 Soft Skills
+- Problem-solving
+- Critical thinking
+- Communication
+- Attention to detail
+- Teamwork and collaboration
+- Time management
 
----
-
-## 🛠️ Skills
-- 📊 Data Analysis
-- 🧹 Data Cleaning
-- 📈 Data Visualization  
-
-**Tools & Technologies:**
-- SQL  
-- R Programming  
-- Power BI  
-- Excel  
-
----
-
-## 📊 Projects
-Here are some of the projects I’ve worked on:
-
-### 🔹 COVID-19 Data Analysis (Power BI)
-- Cleaned and transformed raw data  
-- Analyzed trends across provinces  
-- Built interactive dashboards  
-
-### 🔹 Star Wars Dataset Analysis (R)
-- Performed exploratory data analysis  
-- Visualized distributions and patterns  
-- Used ggplot2 for insights  
+📊 Interests
+- Data Analysis & Visualization
+- Business Intelligence
+- Statistical Analysis
+- Data-driven decision making
 
 ---
 
