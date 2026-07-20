@@ -8,7 +8,7 @@ I'm a Final-Year Data Science (Business Intelligence) student passionate about:
 - Business Intelligence
 - Software Development
 
- SKILLS
+ ## SKILLS
 
 - SQL
 - Python
@@ -23,7 +23,7 @@ I'm a Final-Year Data Science (Business Intelligence) student passionate about:
 - Statistics
   
 
-FEATURED PROJECTS
+## FEATURED PROJECTS
 
 - BC WildWatch
 - COVID-19 Data Analysis
@@ -31,11 +31,10 @@ FEATURED PROJECTS
 - Power BI Sales Dashboard
 
 
-
 ## Connect With Me
 
 - LinkedIn -> https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/
-- GitHub -> 
+- GitHub -> https://github.com/zukhanye-mayekiso
 - Email -> zukhanyemayekiso1@gmail.com
 
 Thank you for visiting my profile!
