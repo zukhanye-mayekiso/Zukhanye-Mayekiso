@@ -1,51 +1,45 @@
-## Hi there 👋
+# Hi, I'm Zukhanye Mayekiso
 
-<!--
-’m Zukhanye Mayekiso
-🎓 I am a final-year Data Science (Business Intelligence) student at Belgium Campus ITversity.
-📊 I am passionate about data analysis, statistics, and database analytics, with a strong interest in turning data into meaningful insights.
-🚀 I am currently seeking internship opportunities in data science and data analytics.
+I'm a Final-Year Data Science (Business Intelligence) student passionate about:
 
-Programming Languages:
-- Python
-- R
-- SQL
-- C#
-- JavaScript
-
-Tools & Technologies:
-- Power BI - DAX
-- Git & GitHub
-- Microsoft Excel
-- SQL Server
-- Tableau
-
-🤝 Soft Skills
-- Problem-solving
-- Critical thinking
-- Communication
-- Attention to detail
-- Teamwork and collaboration
-- Time management
-
-📊 Interests
-- Data Analysis & Visualization
+- Data Analytics
+- Data Visualization
+- Machine Learning
 - Business Intelligence
-- Statistical Analysis
-- Data-driven decision making
+- Software Development
 
----
+ SKILLS
 
-## 📫 Connect With Me
-- LinkedIn:   https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrvjFB9oTS%2BgM%2B2%2B3WndMw%3D%3D
-- Email: zukhanyemayekiso1@gmail.com
+- SQL
+- Python
+- R Programming
+- Power BI
+- Microsoft Power Platform
+- Oracle SQL
+- Data Analysis
+- Excel
+- Machine Learning
+- Tableau
+- Statistics
+  
 
----
+FEATURED PROJECTS
 
-## 📌 Goals
-- Grow as a Data Analyst  
-- Build real-world data projects  
-- Contribute to data-driven solutions  
+- BC WildWatch
+- COVID-19 Data Analysis
+- Star Wars Data Analysis in R
+- Power BI Sales Dashboard
 
 
+
+## Connect With Me
+
+- LinkedIn -> https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/
+- GitHub -> 
+- Email -> zukhanyemayekiso1@gmail.com
+
+Thank you for visiting my profile!
+
+
+ 
 
