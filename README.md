@@ -1,4 +1,4 @@
-# Hi, I'm Zukhanye Mayekiso
+## Hi, I'm Zukhanye Mayekiso
 
 # I am a final year Data Science student at Belgium Campus ITversity who is passionate about technology and eager to learn and grow. I enjoy taking on new challenges and making the most of every opportunity that helps me develop my skills and gain experience.
 My willingness to learn, adapt, and improve is what sets me apart. I am committed to growing throughout my ICT journey and contributing positively wherever I can. I believe that being resourceful, resilient, and open to learning will help me build a meaningful career in technology and make a valuable contribution to any organization I join.
