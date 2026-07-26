@@ -10,7 +10,7 @@ My willingness to learn, adapt, and improve is what sets me apart. I am committe
 - Data Visualization
 - Machine Learning
 - Business Intelligence
-- Software Development
+  
 
  # SKILLS
 
@@ -20,7 +20,6 @@ My willingness to learn, adapt, and improve is what sets me apart. I am committe
 - Power BI
 - DAX
 - Oracle SQL
-- Data Analysis
 - Excel
 - Machine Learning
 - Tableau
