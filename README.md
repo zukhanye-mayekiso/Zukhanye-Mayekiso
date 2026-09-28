@@ -1,136 +1,72 @@
 
 <div align="center">
 
-#  Zukhanye Mayekiso
+<img src="assets/banner.svg" alt="Zukhanye Mayekiso banner" width="100%"/>
 
-### Final-Year Data Science Student | Aspiring Data Analyst
+### Final-Year Data Science (Business Intelligence) Student · Aspiring Data Analyst
+📍 Johannesburg, South Africa &nbsp;|&nbsp; 🎓 Belgium Campus ITversity
 
-**Data Analytics • Business Intelligence • Data Visualization • Machine Learning**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dazzling-cheesecake-17ed2a.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zukhanye-mayekiso)
-[![Credly](https://img.shields.io/badge/Credly-FF69B4?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mayekiso-zukhanye/badges/credly)
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zukhanyemayekiso1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12233f?style=for-the-badge&logo=netlify&logoColor=34d399)](https://dazzling-cheesecake-17ed2a.netlify.app/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mayekiso-zukhanye/badges/credly)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zukhanyemayekiso1@gmail.com)
 
 </div>
 
 ---
 
-##  About Me
+## 👋 About Me
 
-I’m a **final-year Data Science student at Belgium Campus ITversity** with a strong interest in **Data Analytics, Business Intelligence, and Data Visualization**.
+I'm a final-year Data Science student who loves turning raw data into clear, decision-ready insights. I'm resourceful, resilient and always learning, and I'm looking for opportunities to grow as a data analyst and contribute to a team.
 
-I enjoy turning data into meaningful insights, solving problems, and building practical technology solutions.
+- 📊 Building dashboards and analyses in **Power BI**, **R** and **Python**
+- 🎯 Currently focusing on **SQL**, **DAX** and **machine learning**
+- 🌱 Open to internships, graduate roles and collaboration
 
-I’m **resourceful, resilient, adaptable, and always willing to learn**. I’m currently looking for opportunities where I can apply my skills, gain industry experience, and contribute to data-driven decision-making.
+## 🛠️ Tech Stack
 
----
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-##  Tech Stack
+**Also:** DAX · Statistics · Data Cleaning · Data Visualization · Machine Learning
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tools |
+|---|---|---|
+| [**COVID-19 Analysis**](https://github.com/zukhanye-mayekiso/Covid-19-Analysis) | Analyses COVID-19 case trends across South African provinces, with time-based trends and provincial comparisons | Power BI |
+| [**Sales Dashboard**](https://github.com/zukhanye-mayekiso/FUTURE_DS_01) | Interactive dashboard on product performance, customer purchasing patterns and country-level sales | Power BI |
+| [**BC WildWatch**](https://github.com/zukhanye-mayekiso/BC-WildWatch) | Campus animal safety reporting system, deployed as a web-accessible app | Power Apps |
+| [**Star Wars Data Analysis**](https://github.com/zukhanye-mayekiso/starwars-data-analysis) | Exploratory analysis of Star Wars data | R |
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-FF69B4?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FF69B4?style=flat-square&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FF69B4?style=flat-square&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-FF69B4?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-FF69B4?style=flat-square&logo=tableau&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-FF69B4?style=flat-square&logo=oracle&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zukhanye-mayekiso&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukhanye-mayekiso&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 </div>
 
----
+## 🎯 Currently
 
-##  Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/zukhanye-mayekiso">
-<img src="https://img.shields.io/badge/🐾%20BC%20WildWatch-View%20Project-FF69B4?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/zukhanye-mayekiso">
-<img src="https://img.shields.io/badge/🦠%20COVID--19%20Analysis-View%20Project-FF69B4?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/zukhanye-mayekiso">
-<img src="https://img.shields.io/badge/⭐%20Star%20Wars%20Analysis-View%20Project-FF69B4?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/zukhanye-mayekiso">
-<img src="https://img.shields.io/badge/📊%20Power%20BI%20Sales%20Dashboard-View%20Project-FF69B4?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-##  What I Work With
-
-| Area | Technologies |
-|---|---|
-| 📊 Data Analytics | Python • R • SQL • Excel |
-| 📈 Business Intelligence | Power BI • DAX • Tableau |
-| 🤖 Data Science | Machine Learning • Statistics |
-| 🗄️ Databases | SQL • Oracle SQL |
-| 📉 Visualization | Power BI • Tableau • R |
-| 🛠️ Development | Git • GitHub • Microsoft Power Platform |
-
----
-
-##  Currently Learning
-
-**Machine Learning**  
-**Cloud Technologies**  
-**Data Engineering**  
-**Advanced Analytics**  
-**Artificial Intelligence**
-
----
-
-##  Career Focus
-
-I’m currently interested in:
-
-**Data Analyst Internships • Data Science Internships • Business Intelligence • Graduate Programmes**
-
-I’m looking for opportunities where I can:
-
-- Apply my technical skills to real-world problems
-- Work with meaningful data
-- Learn from experienced professionals
-- Develop industry experience
-- Contribute to data-driven decisions
+- [ ] Add screenshots and insights to every project README
+- [ ] Publish a SQL portfolio project
+- [ ] Build a Python machine learning project
+- [ ] Earn more certifications on Credly
 
 ---
 
 <div align="center">
 
-##  Let's Connect
-
-<a href="https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://dazzling-cheesecake-17ed2a.netlify.app/">
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/zukhanye-mayekiso">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-###  Always learning. Always growing. Always building.
+*Thank you for visiting my profile!* ✨
 
 </div>
-```
-
- 
 
