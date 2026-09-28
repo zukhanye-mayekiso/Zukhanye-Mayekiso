@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- Updated Header Image: Pink light, person removed -->
-  <img src="https://image.element.io/v1/projects/c72052b6-4ac8-410a-866b-e555db6c25a0/renders/a4f4f4f4-5555-4555-9555-555555555555" width="100%" alt="Zukhanye Mayekiso Data Science Workspace Banner with Pink Light"/>
+
 
   <!-- Original Title from original README -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=FF4FA3,FF69B4,7DD3FC,38BDF8&height=280&section=header&text=Zukhanye%20Mayekiso&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%E2%80%A2%20Business%20Intelligence&descSize=22&descAlignY=64&animation=fadeIn" width="100%" alt="Zukhanye Mayekiso banner"/>
