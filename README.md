@@ -1,5 +1,7 @@
 <div align="center">
 
+   <img src="assets/banner(2).svg" alt="Zukhanye Mayekiso - Data Science and Business Intelligence" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/zukhanye-mayekiso/Zukhanye-Mayekiso/main/assets/banner(2).svg" alt="Zukhanye Mayekiso - Data Science and Business Intelligence" width="100%"/>
 
 <br/><br/>
