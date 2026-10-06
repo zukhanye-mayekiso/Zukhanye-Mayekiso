@@ -1,9 +1,5 @@
 <div align="center">
 
-   <img src="assets/banner(2).svg" alt="Zukhanye Mayekiso - Data Science and Business Intelligence" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/zukhanye-mayekiso/Zukhanye-Mayekiso/main/assets/banner(2).svg" alt="Zukhanye Mayekiso - Data Science and Business Intelligence" width="100%"/>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/zukhanye-mayekiso-059b70310/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
